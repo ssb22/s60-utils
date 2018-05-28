@@ -113,7 +113,7 @@ for l in csv.reader(lines,'csc'):
             v=('\\'+v[1:].replace(',0','\\')).decode('string_escape')
             # from PIL import Image; from cStringIO import StringIO
             # sys.stderr.write("Info: picture size is %dx%d\r\n" % Image.open(StringIO(v)).size)
-            v=base64.encodestring(v).replace('\n','')+'\r\n' # must leave an extra blank line for Android, otherwise get "File ended during parsing BASE64 binary" - see java/com/android/vcard/VCardParserImpl_V21.java
+            v=base64.b64encode(v)+'\r\n' # must leave an extra blank line for Android, otherwise get "File ended during parsing BASE64 binary" - see java/com/android/vcard/VCardParserImpl_V21.java
         else:
             if re.match("^(0x[0-9a-f][0-9a-f],?)*$",v):
                 v = v.replace(",","").replace("0x",r"\x").decode("string-escape").decode("utf-16").encode("utf-8")
