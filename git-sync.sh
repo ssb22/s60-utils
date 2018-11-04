@@ -7,4 +7,5 @@ wget -N http://people.ds.cam.ac.uk/ssb22/s60/contacts2csc.py
 wget -N http://people.ds.cam.ac.uk/ssb22/s60/csc2vcf.py
 wget -N http://people.ds.cam.ac.uk/ssb22/s60/list-cdrive.py
 wget -N http://people.ds.cam.ac.uk/ssb22/s60/restore-contacts.py
+wget -N http://people.ds.cam.ac.uk/ssb22/s60/pwi2txt.sh
 git commit -am update && git push
