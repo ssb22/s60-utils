@@ -10,7 +10,7 @@ for N in *.pwi ; do
     if test -e "$T"; then
         echo "$T exists, not changing"
     else
-        strings "$N" > "$T" &&
-            touch -r "$N" "$T"
+        strings "$N" | grep -v "^..pwi$" > "$T" &&
+        touch -r "$N" "$T"
     fi
 done
