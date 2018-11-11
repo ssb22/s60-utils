@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 # PIMBackup CSC to VCF VCards conversion
 # (for copying contacts from Windows Mobile to S60, Android etc)
 # Silas S. Brown 2014, 2016 - v1.3 - public domain
