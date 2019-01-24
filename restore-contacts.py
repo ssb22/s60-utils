@@ -1,5 +1,5 @@
 
-# S60 contacts restore - Silas S. Brown 2010 - Public Domain
+# S60 contacts restore - Silas S. Brown 2010 - Public Domain - no warranty
 
 file_to_read = r"E:\contacts-backup.txt"
 

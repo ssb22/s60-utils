@@ -1,6 +1,6 @@
 # S60 auto-answer script for meetings dail-in
 
-# Silas S. Brown 2010 - Public Domain
+# Silas S. Brown 2010 - Public Domain - no warranty
 
 # Note: This script can auto-answer only ONE call at a time.
 # If a second call comes in on call waiting, it is ignored

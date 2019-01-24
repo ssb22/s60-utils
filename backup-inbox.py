@@ -1,5 +1,5 @@
 
-# S60 inbox backup - Silas S. Brown 2011 - Public Domain
+# S60 inbox backup - Silas S. Brown 2011 - Public Domain - no warranty
 
 file_to_write = r"E:\inbox-backup.txt"
 

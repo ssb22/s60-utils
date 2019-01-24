@@ -1,5 +1,5 @@
 
-# S60 contacts backup - Silas S. Brown 2010 - Public Domain
+# S60 contacts backup - Silas S. Brown 2010 - Public Domain - no warranty
 
 file_to_write = r"E:\contacts-backup.txt" # or .vcf if you like
 

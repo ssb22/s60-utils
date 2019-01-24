@@ -1,6 +1,6 @@
 
 # Delete S60 downloads and cache
-# Silas S. Brown 2010, public domain
+# Silas S. Brown 2010, public domain, no warranty
 
 import os
 def myrm(fname):

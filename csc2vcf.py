@@ -2,7 +2,7 @@
 
 # PIMBackup CSC to VCF VCards conversion
 # (for copying contacts from Windows Mobile to S60, Android etc)
-# Silas S. Brown 2014, 2016 - v1.3 - public domain
+# Silas S. Brown 2014, 2016 - v1.3 - public domain - no warranty
 
 # Android (at least v4.4) built-in Contacts import: if
 # non-identical contacts already exist, importing an

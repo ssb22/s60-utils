@@ -4,7 +4,7 @@
 # (but not SYS and PRIVATE unfortunately).
 # Output is written to list.txt on the memory card.
 
-# Silas S. Brown 2010, public domain
+# Silas S. Brown 2010, public domain, no warranty
 
 import os,os.path,time
 def timestr(t):

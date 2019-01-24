@@ -1,5 +1,5 @@
 
-# S60 contacts to WM PIMBackup file - Silas S. Brown 2011 - public domain
+# S60 contacts to WM PIMBackup file - Silas S. Brown 2011 - public domain - no warranty
 
 # This script is ASCII-only for now; PIM Backup can also take UTF-16.
 
