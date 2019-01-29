@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 
 # .csm (PIMBackup Messages dump) to .txt
-# Silas S. Brown 2018 - public domain
+# Silas S. Brown 2018 - public domain - no warranty
 
 indent = 16
 
