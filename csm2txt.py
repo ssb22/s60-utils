@@ -1,7 +1,8 @@
 #!/usr/bin/env python2
 
 # .csm (PIMBackup Messages dump) to .txt
-# Silas S. Brown 2018 - public domain - no warranty
+# v1.1 Silas S. Brown 2018-2019
+# public domain - no warranty
 
 indent = 16
 
@@ -37,7 +38,7 @@ def escape_newlines(s):
     return "".join(o)
 csv.register_dialect("csm",csm)
 headers = [] ; out = []
-for r in csv.reader(StringIO(escape_newlines(open("msgs.csm").read().decode('utf-16').encode('utf-8').replace("\r\n","\n"))),"csm"):
+for r in csv.reader(StringIO(escape_newlines(open("msgs.csm").read().decode('utf-16').encode('utf-8').replace("\r\n","\n").replace("\r","\n"))),"csm"):
     if headers:
         row = [] ; tt = None
         for k,v in zip(headers,r):
