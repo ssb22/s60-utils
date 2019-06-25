@@ -1,4 +1,5 @@
 #!/bin/bash
+git pull --no-edit
 wget -N http://people.ds.cam.ac.uk/ssb22/s60/auto-answer.py
 wget -N http://people.ds.cam.ac.uk/ssb22/s60/backup-contacts.py
 wget -N http://people.ds.cam.ac.uk/ssb22/s60/backup-inbox.py
