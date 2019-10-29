@@ -1,3 +1,4 @@
 # s60-utils
-Python utilities for old S60 phones, from http://people.ds.cam.ac.uk/ssb22/s60/
-(also mirrored at http://ssb22.gitlab.io/s60/ as the Cambridge "DS-Web" server sometimes gets taken down for several days of maintenance)
+Python utilities for old S60 phones, from http://ssb22.user.srcf.net/s60/
+(also mirrored at http://ssb22.gitlab.io/s60/ just in case)
+See there for details
