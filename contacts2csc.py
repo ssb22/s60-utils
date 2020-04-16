@@ -3,6 +3,11 @@
 
 # This script is ASCII-only for now; PIM Backup can also take UTF-16.
 
+# Where to find history:
+# on GitHub at https://github.com/ssb22/s60-utils
+# and on GitLab at https://gitlab.com/ssb22/s60-utils
+# and on BitBucket https://bitbucket.org/ssb22/s60-utils
+
 file_to_write = r"E:\contacts.csc"
 
 cscFields="Name;Title;First Name;Middle Name;Last Name;NickName;Suffix;Display Name;Picture;Job Title;Department;Company;Business Phone;Business Fax;Business Street;Business City;Business State;Business Postal Code;Business Country;IM;E-mail Address;Mobile Phone;Ring Tone;Web Page;Office Location;Home Phone;Home Street;Home City;Home State;Home Postal Code;Home Country;Categories;Other Street;Other City;Other State;Other Postal Code;Other Country;Pager;Car Phone;Home Fax;Company Main Phone;Business Phone 2;Home Phone 2;Radio Phone;IM2;IM3;E-mail 2 Address;E-mail 3 Address;Assistant's Name;Assistant's Phone;Manager's Name;Government ID Number;Account;Customer ID Number;Birthday;Anniversary;Spouse;Children;Notes;Notes Ink;Last Name (Yomi);First Name (Yomi);Company (Yomi)"

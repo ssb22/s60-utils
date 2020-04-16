@@ -4,6 +4,11 @@
 # Limitations: You can't set the font, and it's very small.
 # (I can't get appuifw's font commands to work on my device.)
 
+# Where to find history:
+# on GitHub at https://github.com/ssb22/s60-utils
+# and on GitLab at https://gitlab.com/ssb22/s60-utils
+# and on BitBucket https://bitbucket.org/ssb22/s60-utils
+
 import appuifw, e32, time, keycapture, key_codes
 
 def sleepto(endtime):

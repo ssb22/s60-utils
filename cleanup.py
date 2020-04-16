@@ -2,6 +2,11 @@
 # Delete S60 downloads and cache
 # Silas S. Brown 2010, public domain, no warranty
 
+# Where to find history:
+# on GitHub at https://github.com/ssb22/s60-utils
+# and on GitLab at https://gitlab.com/ssb22/s60-utils
+# and on BitBucket https://bitbucket.org/ssb22/s60-utils
+
 import os
 def myrm(fname):
     try: os.remove(fname)

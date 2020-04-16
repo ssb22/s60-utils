@@ -12,6 +12,11 @@
 # to send an SMS.  Would need to long-press Menu
 # to get task manager and exit from there.)
 
+# Where to find history:
+# on GitHub at https://github.com/ssb22/s60-utils
+# and on GitLab at https://gitlab.com/ssb22/s60-utils
+# and on BitBucket https://bitbucket.org/ssb22/s60-utils
+
 name = ""
 textNo = ""
 textMsg = ""

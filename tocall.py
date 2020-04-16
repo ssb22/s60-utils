@@ -21,6 +21,11 @@
 # innocuous as recommending their club, if it causes people to THINK this
 # amounts to working for the club, could be breaking the law by using a notes file.
 
+# Where to find history:
+# on GitHub at https://github.com/ssb22/s60-utils
+# and on GitLab at https://gitlab.com/ssb22/s60-utils
+# and on BitBucket https://bitbucket.org/ssb22/s60-utils
+
 read_from = r"E:\tocall.txt" # save your notes there
 
 max_matches = 4 # if more than this number of contacts match a name, don't link it
