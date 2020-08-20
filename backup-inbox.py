@@ -5,6 +5,7 @@
 # on GitHub at https://github.com/ssb22/s60-utils
 # and on GitLab at https://gitlab.com/ssb22/s60-utils
 # and on BitBucket https://bitbucket.org/ssb22/s60-utils
+# and at https://gitlab.developers.cam.ac.uk/ssb22/s60-utils
 
 file_to_write = r"E:\inbox-backup.txt"
 
