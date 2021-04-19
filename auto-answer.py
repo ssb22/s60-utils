@@ -17,6 +17,7 @@
 # and on GitLab at https://gitlab.com/ssb22/s60-utils
 # and on BitBucket https://bitbucket.org/ssb22/s60-utils
 # and at https://gitlab.developers.cam.ac.uk/ssb22/s60-utils
+# and in China https://gitee.com/ssb22/s60-utils
 
 name = ""
 textNo = ""
